@@ -11,3 +11,15 @@ Can be used as starter project with the TivaWare. Based in the instructions of t
     > CCS Build >> Variables >>  TIVAWARE_INSTALL
 
 > clean the project and rebuild
+
+#### Embarcados_01_blink
+Simple blink led without use the driverlib.
+
+#### Embarcados_01_blink_tivaware
+Simple blink led usinh the driverlib to configure the peripherals
+
+#### Embarcados_04_lab_02
+Version of the Lab2 proposed in the course.
+
+#### Embarcados_04_lab_02_mod
+Modified version of the Lab2 proposed in the course. In this version we use both switches to control the leds
